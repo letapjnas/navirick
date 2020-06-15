@@ -51,9 +51,7 @@ about:
   enable: true
   title: "Why Navirick?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+As the science of medical care improves, our healthcare system will have patients who live longer and treated earlier.  Our health navigators will be overloaded with cases.  To ease the caseload, we need technology to rapidly shift the focus on care to the patients' lives. 
     </p>
     <p class="lead">
     My area of focus lies in designing web and mobile products, user research as well as
@@ -62,8 +60,8 @@ about:
     </p>'
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    btnText: "Download More Info"
+    URL: ""
   image:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
