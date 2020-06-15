@@ -223,13 +223,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "717.433.2753"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:sanjiv@navirick.com">sanjiv@navirick.com</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "84 George Russell Way, Clifton, NJ 07013"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
