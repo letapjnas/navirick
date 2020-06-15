@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Navirick."
   subtitle: "A Navigator's Assistant."
-  description: "I work at <a target='_blank' href='https://navirick.com/'>navirick.com</a>, a healthcare technology company. Think of me as the First Officer to the Captain (health navigators).  I assist care center navigators by offering our technology that is hyper-focused on the navigator's day to day activities. My goal is to bring the healthcare community together to support our patients' needs.  After all, we all want to improve patient outcomes."
+  description: "I work at <a target='_blank' href='https://navirick.com/'>navirick.com</a>, a healthcare technology company. Think of me as the First Officer to the Captain (Healthcare Navigators).  I assist care center navigators by offering our technology that is hyper-focused on the navigator's day to day activities. My goal is to bring the healthcare community together to support our patients' needs.  After all, we all want to improve patient outcomes."
   image:
     x: "img/showcase/showcase1.png"
     _2x: "img/showcase/showcase@2xx.png"
