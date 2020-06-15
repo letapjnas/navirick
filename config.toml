@@ -1,4 +1,4 @@
-baseURL = "navirick.com"
+baseURL = "https://flamboyant-tereshkova-5f9d84.netlify.app/"
 languageCode = "en-us"
 theme = "naviricktheme"
 
