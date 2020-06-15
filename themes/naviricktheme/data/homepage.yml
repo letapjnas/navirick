@@ -51,10 +51,9 @@ about:
   enable: true
   title: "Why Navirick?"
   content: '<p class="lead">
-    As the science of medical care evolves, patients will live longer through the managed care continuum.  These include patients who will be diagnosed and treated earlier for some of the life threatening diseases.  Naturally, our health care navigators will have more encounters and cases than ever before.  Our technology wants to help navigators focus on sorting, organizing, and desminating the ever increasing flow of information and data.
+    As the science of medical care evolves, patients will live longer through the managed care continuum.  These include patients who will be diagnosed and treated earlier for life threatening diseases such as cancer and heart disease.  Naturally, our health care navigators will have more encounters and cases than ever before.  Our technology wants to help navigators focus on sorting, organizing, and desminating the ever increasing flow of information and data.
     </p>
-    <p class="lead">
-    Our area of focus is in cancer care..
+    <p class="lead"> Our mission is help health navigators put the patient first. 
     </p>'
   button:
     icon: "icon-smile-fill"
