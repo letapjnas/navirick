@@ -51,10 +51,14 @@ about:
   enable: true
   title: "Why Navirick?"
   content: '<p class="lead">
-    As the science of medical care improves, our healthcare system will have patients who live longer and treated earlier.  Our health navigators will inevitably have more patients under their careteam.  This equates to more encounters and cases.  To ease the caseload and streamline the communication, we need technology to rapidly shift the focus on managing data to treating and improving the patients' lives. 
+    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
+    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
+    good for all of you.
     </p>
     <p class="lead">
-    An area that we are focused on is the treatment of cancer patients.  As earlier screening and treatment improves, patients will spend more time under the continuum of managed care.  We have seen a need for the advancement of technology to helpe cancer center navigators manage the flow of information between the care team, and directly with patients and the community.
+    My area of focus lies in designing web and mobile products, user research as well as
+    leading of design & front-end teams. I enjoy designing and coding the UI as much as
+    talking with users to iterate and improve the experiences that reach business goals.
     </p>'
   button:
     icon: "icon-smile-fill"
