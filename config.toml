@@ -26,7 +26,7 @@ theme = "naviricktheme"
 [menu]
 
   [[menu.header]]
-  name = "Why Navirick?"
+  name = "Why Navirick??"
   URL = "#about"
   weight = 2
 
